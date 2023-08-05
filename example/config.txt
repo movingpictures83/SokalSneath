@@ -1,0 +1,2 @@
+Prefix plugins/SokalSneath/example/
+Plugin SokalSneath inputfile table.qza outputfile beta_diversity.qza
